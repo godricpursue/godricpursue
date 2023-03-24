@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-I'm Altan Şimşir, a frontend developer with a background in Electrical-Electronics Engineering. I am passionate about creating exceptional digital experiences and am committed to delivering outstanding quality and value to clients.
+I'm Altan Şimşir, a frontend developer with a background in Electrical-Electronics Engineering.Currently stationed in Adana,Turkey. I am passionate about creating exceptional digital experiences and am committed to delivering outstanding quality and value to clients.
 
 ## 👨‍💻 Technical Skills
 
