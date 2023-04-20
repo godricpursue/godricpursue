@@ -11,6 +11,7 @@ I am proficient in:
 - JQuery
 - Bootstrap
 - React
+- Tailwind CSS
 
 I am committed to developing with built-in quality and using clean code practices. I am also familiar with agile software development practices and tools, and I am a self-starter and practitioner of continuous learning.
 ## 🌟 Experience
