@@ -23,7 +23,7 @@ In my previous experience, I:
 
 ## 🚀 Current Focus
 
-🚀 Currently, I'm working on Patika.Dev Intermediate Frontend Path, where I'm  building a responsive e-commerce website while learning how to be more proficient using React. 
+🚀 Currently, I'm expanding my knowledge by learning TypeScript and NextJS, which will further enhance my skills.
 
 
 ## 📫 Get in touch
